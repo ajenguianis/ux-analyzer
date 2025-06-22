@@ -1,0 +1,4 @@
+node_modules/
+ux-analysis/
+*.png
+*.log
