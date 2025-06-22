@@ -51,7 +51,7 @@ A powerful Node.js tool for analyzing web pages to drive **UI/UX modernization**
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/ux-analyzer.git
+git clone https://github.com/ajenguianis/ux-analyzer.git
 cd ux-analyzer
 npm install
 ```
